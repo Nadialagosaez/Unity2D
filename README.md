@@ -1,4 +1,4 @@
-# 🧠 Unity 2D - NinjaGirl
+# 🕹️ Unity 2D - NinjaGirl
 
 C#, UNITY
 Animaciones, mecanicas de juego, sonidos
