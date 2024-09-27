@@ -6,7 +6,7 @@ Animaciones, mecanicas de juego, sonidos
 
 ## 🛠️ Configuració
 
-- El archivo ejecutable solo funciona si se tiene el motor de unity instalado. Se puede descargar desde https://unity.com/es/download
+- El archivo ejecutable "NinjaGirl Game" solo funciona si se tiene el motor de unity instalado. Se puede descargar desde https://unity.com/es/download
 
 
 ## 👓 Vista previa
